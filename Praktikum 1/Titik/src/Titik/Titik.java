@@ -50,11 +50,11 @@ public class Titik {
 		
 		t1 = new Titik();
 		t2 = new Titik();
-		t3 = new Titik(5,6);
-		t1.setAbsis(5);
-		t1.setOrdinat(6);
-		t2.setAbsis(4);
-		t2.setOrdinat(7);
+		t3 = new Titik(9,10);
+		t1.setAbsis(6);
+		t1.setOrdinat(5);
+		t2.setAbsis(5);
+		t2.setOrdinat(5);
 	
 		System.out.println("Jumlah objek Titik = " + t1.getCounterTitik());
 		System.out.println("t1(" + t1.getAbsis() + "," + t1.getOrdinat() + ")");
