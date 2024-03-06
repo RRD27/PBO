@@ -1,7 +1,7 @@
 //Nama		: Raden Rico Dwianda
 //NIM		: 24060122140184
 //Tanggal	: 6 Maret 2024
-//Deskripsi	: Class yang berisi program utama untuk class AngkaSialException
+//Deskripsi	: Class yang berisi program utama untuk class AngkaSial
 public class AngkaSial {
     public void cobaAngka(int angka) throws AngkaSialException {
         if (angka == 13) {
