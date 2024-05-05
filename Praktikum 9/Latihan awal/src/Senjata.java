@@ -9,8 +9,8 @@
  */
 
 /*
-Nama        : David Nugroho
-NIM         : 24060122130074
+Nama        : Raden Rico Dwianda
+NIM         : 24060122140184
 File        : Senjata.java
 Deskripsi   : Representasi dasar dari objek Senjata
 */
