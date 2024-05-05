@@ -9,8 +9,8 @@
  */
 
 /*
-Nama        : David Nugroho
-NIM         : 24060122130074
+Nama        : Raden Rico D
+NIM         : 24060122140184
 File        : TestSenjata.java
 Deskripsi   : Main dari objek Senjata
 */
