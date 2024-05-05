@@ -10,8 +10,8 @@ package latihanMedium;
  */
 
 /*
-Nama        : David Nugroho
-NIM         : 24060122130074
+Nama        : Raden Rico D
+NIM         : 24060122140184
 File        : KontrolSenjata.java
 Deskripsi   : Representasi dari objek Senjata
 */
